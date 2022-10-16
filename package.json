@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "A short project to practice creating and using tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parkeralexjm/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parkeralexjm/testing-practice/issues"
+  },
+  "homepage": "https://github.com/parkeralexjm/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.19.4"
+  }
+}
