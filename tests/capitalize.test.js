@@ -1,4 +1,4 @@
-// Expect 'This is now capitalized' when passed 'this is now capitalized'
+// Capitalise the first character of the input string
 
 const capitalize = require('../codes/capitalize');
 
